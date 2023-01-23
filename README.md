@@ -8,9 +8,8 @@ Date File: (loan_data_json.json)
 https://finch-groundhog-9245.squarespace.com/s/loan_data_json.json
 
 # What I have learned
-1. Read data from CSV file into data frame in Python with pandas, process, clean, and store data.
-2. Use Tableau to draw charts showing how time, client ages, client types, countries, and items affect sales, costs, profits with time.
-3. How to use Tableau to draw various kinds charts.
+1. Obtain data from JSON file in Python with json, process, clean, and store data to a CSV file.
+2. Analyze the risks of loans by creating charts indicating the distribution of loans based on interest rates, utilization rates, annual incomes and credit scores.
 
 # Tableau report
 ![Dashboard 1 (4)](https://user-images.githubusercontent.com/76865032/213982586-5114b62d-e8b6-4d1a-95ec-892eeab9463a.png)
