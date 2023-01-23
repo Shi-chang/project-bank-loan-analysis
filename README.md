@@ -13,7 +13,7 @@ https://finch-groundhog-9245.squarespace.com/s/loan_data_json.json
 3. How to use Tableau to draw various kinds charts.
 
 # Tableau report
-![Dashboard 1 (3)](https://user-images.githubusercontent.com/76865032/213982327-bc117fce-4d55-4496-a71e-71a83fe4c15f.png)
+![Dashboard 1 (4)](https://user-images.githubusercontent.com/76865032/213982586-5114b62d-e8b6-4d1a-95ec-892eeab9463a.png)
 
 Link to tableau
 
