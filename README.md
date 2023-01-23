@@ -4,6 +4,7 @@ borrowers are. Using Python and Tableau, they’d like to see a report of borrow
 
 ## Links to project resources
 Date File: (loan_data_json.json)
+
 https://finch-groundhog-9245.squarespace.com/s/loan_data_json.json
 
 # What I have learned
@@ -14,7 +15,8 @@ https://finch-groundhog-9245.squarespace.com/s/loan_data_json.json
 # Tableau report
 ![Dashboard 1 (1)](https://user-images.githubusercontent.com/76865032/213979738-73fd511c-586d-4899-b922-588e0440948c.png)
 
-Link to tableau:
+Link to tableau
+
 https://public.tableau.com/app/profile/alan.ye6107/viz/project-bank-loan-analysis/Dashboard1?publish=yes
 
 # Acknowledgements
